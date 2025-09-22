@@ -1,4 +1,4 @@
- Splunk-LabAnalyzing DHCP Log Files Using Splunk SIEM
+ Splunk-Lab Analyzing DHCP Log Files Using Splunk SIEM
 
 Introduction 
 
