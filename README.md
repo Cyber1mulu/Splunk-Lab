@@ -13,7 +13,8 @@ These are DHCPlog files included:
                         Errors – conflicts (e.g., two devices requesting the same IP), failed assignments, or misconfigurations.
                         
 Locations of logs depend on the OS and DHCP server:
-    Windows DHCP Server: Usually C:\Windows\System32\dhcp\DhcpSrvLog-*.log
-    Linux (ISC DHCP Server): Often /var/log/syslog or /var/log/dhcpd.log
-                        
+
+                        Windows DHCP Server: Usually C:\Windows\System32\dhcp\DhcpSrvLog-*.log
+                        Linux (ISC DHCP Server): Often /var/log/syslog or /var/log/dhcpd.log
+                                           
   
