@@ -11,11 +11,15 @@
   
 <h3>Lab Set Up and Perparations </h3>
 
-<h6> 1         Log in to your Splunk instance.</h6>
-Go to Apps > Search & Reporting.
-Click Add Data → Upload.
-Select the provided ssh_log.json file and upload it.
-Choose sourcetype = _json so Splunk automatically extracts fields.
-Index it under a new index, e.g., ssh_logs.
-Review and click on start searching
+<h6> 1 Go to Apps > Search & Reporting.</h6>
+<h6> 2 Click Add Data → Upload.</h6>
+<h6> 3 Select the provided ssh_log.json file and upload it.</h6>
+<h6> 4 Choose sourcetype = _json so Splunk automatically extracts fields.</h6>
+<h6> 5 Index it under a new index, e.g., ssh_logs.</h6>
+<h6> 6 Review and click on start searching </h6>
+
+
+
+
+
  
