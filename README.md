@@ -9,4 +9,5 @@
   - Multiple failed authentication attempts (indicators of brute-force)
   - Connections without authentication (potential scanning or incomplete sessions)
   
-<h3>Lab Set Up </h3>
+<h3>Lab Set Up and Perparations </h3>
+ 
